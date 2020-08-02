@@ -1,0 +1,45 @@
+h1 {
+    color:blue   
+} 
+
+.container {
+   
+}
+
+.card {
+    width: 50rem;
+    margin: 30px;
+    
+}
+
+body {
+    background-color: rgb(5, 31, 5)
+}
+
+#textA {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Kaushan Script', cursive;
+    color: rosybrown;
+
+}
+
+.navbar-brand {
+  background-color: rosybrown;
+}
+
+.mt-0 {
+    color: white;
+    font-weight: bold;
+}
+p {
+    color: white;
+}
+
+.col {
+    color: burlywood;
+}
+
+.form-group {
+    color: burlywood;
+}
