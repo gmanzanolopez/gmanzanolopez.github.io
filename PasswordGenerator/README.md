@@ -19,3 +19,6 @@
 # Password Generating Process
   I did all my javascript as cleaned as I could I was unable to make the special 
   characters, upper and lower case letters to work. The length of password was accurate and numbers, other than that I tried my best to figure out how to make the other characters work.
+
+# Password Generator url
+(https://gmanzanolopez.github.io/PasswordGenerator/).
