@@ -62,8 +62,8 @@ function writePassword() {
     var password = "";
     
     for(var i = 0; i <= wordLength; i++) { 
-      var NewPass = [Math.floor(Math.random()* wordLength.length)];
-      password = NewPass + password;}
+      var newPass = [Math.floor(Math.random()* wordLength.length)];
+      password = newPass + password;}
       
     
     return password;}

@@ -7,22 +7,25 @@
 </head>
 <link rel="stylesheet" href="style.css"/>
 <body>
+    <h2 class="timer">Time Left:</h2>
+    <div id="container"></div>
     <div class="wrapper">
-     <div class="card">
+     <div class="card" id=mainQues>
         <h1>Coding Quiz Challenge</h1>
     </header>
-      <div class="card-body">
+      <div class="card-body" id="mainPart">
      <p> This is a quiz of 6 question. These questions are coding related, you will have
-         5 minutes to answer all the questions with only 30 seconds per question. If you answer 
-         a question wrong there will be 15 seconds deducted from your time everytime. Your score 
+         2 minutes to answer all the questions . If you answer 
+         a question wrong there will be 10 seconds deducted from your time everytime. Your score 
          will be giving at the end of the quiz. GoodLuck!  
      </p>
       </div>
-     <div class="card-footer">
-        <button id="start" class="btn" onclick="">Start Quiz</button>
+     <div class="card-footer" id="beginQuiz">
+        <button class="btn">Begin Quiz</button>
+        <div id="main"></div>
       </div>
       </div>
      </div> 
+ <script src="script.js"></script>  
 </body>
-<script src="script.js"></script>
 </html>

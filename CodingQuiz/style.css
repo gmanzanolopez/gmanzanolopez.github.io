@@ -32,3 +32,6 @@ p {
     border-radius: 50px;
     font-size: 30px;
 }
+body {
+    background-color: cyan;
+}
