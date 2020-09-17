@@ -1,0 +1,43 @@
+h1 {
+    color:blue   
+} 
+
+.container {
+   
+}
+
+.card {
+    width: 50rem;
+    margin: 30px;
+    
+}
+
+body {
+    background-color: papayawhip
+}
+
+.navbar-brand {
+  color: rosybrown;
+}
+
+.mt-0 {
+    color: maroon;
+    font-weight: bold;
+}
+p {
+    color: white;
+}
+
+.col {
+    color: burlywood;
+}
+
+.form-group {
+    color: burlywood;
+}
+.card-text {
+    color: slateblue;
+}
+#bio {
+    color: teal;
+}
